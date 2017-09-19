@@ -19,5 +19,6 @@ public class HelloController {
 		String text = searchResults.getTweets().get(0).getText(); 
 		model.addAttribute("message", text);
 		return "resultPage";
+		
 	}
 }

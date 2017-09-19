@@ -9,6 +9,5 @@ public class Nmb2017SpringMvc4ThApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Nmb2017SpringMvc4ThApplication.class, args);
 		
-		//Hello~ My Spring
 	}
 }
